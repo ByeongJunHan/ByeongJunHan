@@ -1,3 +1,4 @@
+
 <p>
   <a href="mailto:appoung@naver.com"><img src="https://img.shields.io/badge/appoung@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:appoung@naver.com"/></a>
   <a href="https://youtube.com/c/%ED%95%9C%EB%B3%91%EC%A4%80tv" target="_blank"><img src="https://img.shields.io/badge/한병준tv-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
@@ -23,7 +24,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
-  
+
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <br>
+
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
@@ -57,6 +62,11 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
+
+
+
+
+
 
 ### Projects
 [![Github: ramenV2](https://img.shields.io/badge/Github-ramenV2-6528F7.svg)](https://github.com/appoung/ramen_storageV2)
